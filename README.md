@@ -1,6 +1,6 @@
-# Hola, soy Carlos I. M.
+# 👋 ¡Hola! Soy Carlos I. M.
 
-### Actualmente estudiante de una tecnicatura en informática para perfeccionar mis habilidades
+### Estudiante apasionado por la informática, perfeccionando mis habilidades para contribuir al mundo del desarrollo y la tecnología.
 
 ---
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Estoy matriculado por la <strong>RED LIF</strong> - Red latinoamericana de informática forense como investigador en informática forense con experiencia en ciberseguridad.
+  Estoy matriculado por la <strong>RED LIF</strong> - Red latinoamericana de informática forense como Investigador Digital Forense
 </p>
 
 <p align="center">
@@ -35,10 +35,13 @@
 
 ---
 
+<!-- 
 ### Mis redes
 
 <p align="left">
   <a href="https://www.linkedin.com/in/advancedtechnician" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">
   </a>
-</p>
+</p> 
+-->
+
