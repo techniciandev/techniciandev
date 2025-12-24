@@ -90,7 +90,3 @@
 
 ---
 
-## 🔗 Enlaces
-- GitHub: https://github.com/techniciandev  
-- ORCID: https://orcid.org/0009-0007-2983-8770
-
