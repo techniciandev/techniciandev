@@ -88,3 +88,5 @@
 
 🧪 **Stack Forense & Auditoría:**
 Despliegue de herramientas de grado pericial para extracción de artefactos, intercepción de tráfico y validación de redes (Autopsy, Wireshark, ExifTool, y desarrollo de utilidades OSINT propietarias).
+
+#FullStackDeveloper #ForensicIT #DigitalForensics #WebDevelopment #QuantumComputing #SoftwareEngineering #ReactJS #JavaScript #PHP #Ruby #Java #CSharp #CodingLife #TechInnovation #USATech #CyberSecurity #MVC #Programmer #Innovation #TechCommunity
